@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ### My Leisure
-![LibraA](https://www.hackthebox.eu/badge/image/356111) ![Libra_A](https://atcoder.jp/users/Libra_A) 
+Hack the Box: ![LibraA](https://www.hackthebox.eu/badge/image/356111)
+AtCoder:[![Libra_A](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FLibra_A)](https://atcoder.jp/users/Libra_A)
 
 ### GitHub
 [![](https://raw.githubusercontent.com/smirror/smirror/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
